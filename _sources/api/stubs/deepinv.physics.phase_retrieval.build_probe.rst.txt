@@ -1,0 +1,15 @@
+﻿build\_probe
+============
+
+.. currentmodule:: deepinv.physics.phase_retrieval
+
+.. autoclass:: build_probe
+   :members:
+   :show-inheritance:
+   :no-undoc-members:
+   :special-members: __mul__, __add__, __div__, __neg__, __sub__, __truediv__
+
+.. _sphx_glr_backref_deepinv.physics.phase_retrieval.build_probe:
+
+.. minigallery:: deepinv.physics.phase_retrieval.build_probe
+    :add-heading: Examples using ``build_probe``:

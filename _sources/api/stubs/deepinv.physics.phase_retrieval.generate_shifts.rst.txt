@@ -1,0 +1,15 @@
+﻿generate\_shifts
+================
+
+.. currentmodule:: deepinv.physics.phase_retrieval
+
+.. autoclass:: generate_shifts
+   :members:
+   :show-inheritance:
+   :no-undoc-members:
+   :special-members: __mul__, __add__, __div__, __neg__, __sub__, __truediv__
+
+.. _sphx_glr_backref_deepinv.physics.phase_retrieval.generate_shifts:
+
+.. minigallery:: deepinv.physics.phase_retrieval.generate_shifts
+    :add-heading: Examples using ``generate_shifts``:

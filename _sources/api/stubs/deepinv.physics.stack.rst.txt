@@ -1,0 +1,15 @@
+﻿stack
+=====
+
+.. currentmodule:: deepinv.physics
+
+.. autoclass:: stack
+   :members:
+   :show-inheritance:
+   :no-undoc-members:
+   :special-members: __mul__, __add__, __div__, __neg__, __sub__, __truediv__
+
+.. _sphx_glr_backref_deepinv.physics.stack:
+
+.. minigallery:: deepinv.physics.stack
+    :add-heading: Examples using ``stack``:
